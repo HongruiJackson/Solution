@@ -23,7 +23,8 @@
 - 长度最小的子数组 [Q](https://leetcode.cn/problems/minimum-size-subarray-sum/description/)&[A](src/com/jackson/solution/question/Question209.java)
 
 - 杨辉三角 [Q](https://leetcode.cn/problems/pascals-triangle/description/)&[A](src/com/jackson/solution/question/Question118.java)
-
+- 杨辉三角II [Q](https://leetcode.cn/problems/pascals-triangle-ii/solutions/601082/yang-hui-san-jiao-ii-by-leetcode-solutio-shuk/)&[A](src/com/jackson/solution/question/Question119.java)
+- 反转字符串中的单词III [Q](https://leetcode.cn/problems/reverse-words-in-a-string-iii/description/)&[A](src/com/jackson/solution/question/Question557.java)
 
 
 
