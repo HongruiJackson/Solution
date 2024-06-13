@@ -7,7 +7,7 @@ import java.util.List;
  * 118. 杨辉三角
  * https://leetcode.cn/problems/pascals-triangle/description/
  */
-public class Question119 {
+public class Question118 {
 
     public List<List<Integer>> generate(int numRows) {
         ArrayList<List<Integer>> wholeList = new ArrayList<>();
