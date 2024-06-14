@@ -27,4 +27,4 @@
 - 反转字符串中的单词III [Q](https://leetcode.cn/problems/reverse-words-in-a-string-iii/description/)&[A](src/com/jackson/solution/question/Question557.java)
 - 寻找旋转排序数组中的最小值 [Q](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/)&[A](src/com/jackson/solution/question/Question153.java)
 - 删除有序数组中的重复项 [Q](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/)&[A](src/com/jackson/solution/question/Question26.java)
-
+- 移动零 [Q](https://leetcode.cn/problems/move-zeroes/description/)&[A](src/com/jackson/solution/question/Question283.java)
