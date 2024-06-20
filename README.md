@@ -31,3 +31,5 @@
 
 23. 设计链表 [Q](https://leetcode.cn/problems/design-linked-list/description/)&[A](src/com/jackson/solution/question/Question707.java)
 24. 环形链表（哈希表set，快慢指针）[Q](https://leetcode.cn/problems/linked-list-cycle/description/)&[A](src/com/jackson/solution/question/Question141.java)
+25. *环形链表II（值得多做几次）[Q](https://leetcode.cn/problems/linked-list-cycle-ii/solutions/)&[A](src/com/jackson/solution/question/Question142.java)
+26. 
