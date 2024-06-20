@@ -30,3 +30,4 @@
 22. 移动零 [Q](https://leetcode.cn/problems/move-zeroes/description/)&[A](src/com/jackson/solution/question/Question283.java)  
 
 23. 设计链表 [Q](https://leetcode.cn/problems/design-linked-list/description/)&[A](src/com/jackson/solution/question/Question707.java)
+24. 环形链表（哈希表set，快慢指针）[Q](https://leetcode.cn/problems/linked-list-cycle/description/)&[A](src/com/jackson/solution/question/Question141.java)
