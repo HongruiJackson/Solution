@@ -33,3 +33,4 @@
 24. 环形链表（哈希表set，快慢指针）[Q](https://leetcode.cn/problems/linked-list-cycle/description/)&[A](src/com/jackson/solution/question/Question141.java)
 25. *环形链表II（值得多做几次）[Q](https://leetcode.cn/problems/linked-list-cycle-ii/solutions/)&[A](src/com/jackson/solution/question/Question142.java)
 26. 相交链表 [Q](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/)&[A](src/com/jackson/solution/question/Question160.java)
+27. 删除链表的倒数第n个结点 [Q](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)&[A](src/com/jackson/solution/question/Question19.java)
