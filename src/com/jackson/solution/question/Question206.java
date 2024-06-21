@@ -11,7 +11,7 @@ public class Question206 {
         ListNode next;
         ListNode() {}
         ListNode(int val) { this.val = val; }
-        ListNode(int val, Question19.ListNode next) { this.val = val; this.next = next; }
+        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
     public ListNode reverseList(ListNode head) {
         // 空链表和size为1的链表直接返回即可
