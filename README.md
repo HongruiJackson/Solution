@@ -37,3 +37,4 @@
 
 28. 反转链表 [Q](https://leetcode.cn/problems/reverse-linked-list/description/)&[A](src/com/jackson/solution/question/Question206.java)
 29. 移除链表元素（加头结点） [Q](https://leetcode.cn/problems/remove-linked-list-elements/description/)&[A](src/com/jackson/solution/question/Question203.java)
+30. 奇偶链表 [Q](https://leetcode.cn/problems/odd-even-linked-list/description/)&[A](src/com/jackson/solution/question/Question328.java)
