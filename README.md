@@ -39,3 +39,5 @@
 29. 移除链表元素（加头结点） [Q](https://leetcode.cn/problems/remove-linked-list-elements/description/)&[A](src/com/jackson/solution/question/Question203.java)
 30. 奇偶链表 [Q](https://leetcode.cn/problems/odd-even-linked-list/description/)&[A](src/com/jackson/solution/question/Question328.java)
 31. 回文链表 [Q](https://leetcode.cn/problems/palindrome-linked-list/description/)&[A](src/com/jackson/solution/question/Question234.java)
+
+32. 合并两个有序链表 [Q](https://leetcode.cn/problems/merge-two-sorted-lists/description/)&[A](src/com/jackson/solution/question/Question21.java)
