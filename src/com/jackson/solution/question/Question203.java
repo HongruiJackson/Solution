@@ -33,5 +33,5 @@ public class Question203 {
         return head;
     }
 
-    // 增加一个头结点的优化
+    // 增加一个头结点同一有值结点的处理统一性
 }
