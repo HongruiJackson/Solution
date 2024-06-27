@@ -42,3 +42,4 @@
 
 32. 合并两个有序链表 [Q](https://leetcode.cn/problems/merge-two-sorted-lists/description/)&[A](src/com/jackson/solution/question/Question21.java)
 33. 两数相加 [Q](https://leetcode.cn/problems/add-two-numbers/description/)&[A](src/com/jackson/solution/question/Question2.java)
+34. 扁平化多级双向链表（值得多做几次） [Q](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/description/)&[A](src/com/jackson/solution/question/Question430.java)
